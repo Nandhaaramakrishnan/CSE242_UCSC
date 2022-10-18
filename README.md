@@ -1,1 +1,1 @@
-# CSE242_UCSC
+# UCSC CSE 242 - Machine Learning
